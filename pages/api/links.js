@@ -68,7 +68,7 @@ var links = [
       description: ""
     },
     {
-      tab: "GERAL",
+      tab: "LOGISTICA",
       label: "ARGO",
       href: "https://ctm.bcdtravel.com.br/bcd/default.aspx?cliente=halliburton",
       description: "Pedido de Hotel e Vôos"
@@ -125,10 +125,10 @@ var links = [
       tab: "BR",
       label: "SITOP",
       href: "https://sitop.petrobras.biz/aplicativo/LI04-SITOP",
-      description: "SITOP - Somente rede BR"
+      description: "Somente rede BR"
     },
     {
-      tab: "GERAL",
+      tab: "LOGISTICA",
       label: "LOGÍSTICA (PESSOAL)",
       href: "https://srq.halliburton.7itec.io/login",
       description: "Pesquisar dados da viagem"
