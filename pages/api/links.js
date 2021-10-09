@@ -110,7 +110,7 @@ var links = [
       description: "Status de Voos BR"
     },
     {
-      tab: "GERAL",
+      tab: "OUTROS",
       label: "Halliburton TV",
       href: "https://accesstfa.halliburton.com/,DanaInfo=.awxyClfrsqk42511O9A,SSL+",
       description: ""
